@@ -1,0 +1,7 @@
+category: Web
+requires: python
+sdesc: "Creates HTML site map"
+ldesc: "sitemap indexes all pages under the current directory and writes 
+an HTML map page to standard output. The code looks for description 
+information for each page in a meta 'description' header; if it doesn't 
+find one, the page is omitted from the index."
